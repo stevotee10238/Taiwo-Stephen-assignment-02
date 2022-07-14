@@ -20,7 +20,7 @@ function sumOfNumbers(numbers) {
     }
     return sum;
 }
-// assignment.sumOfNumbers = sumOfNumbers;
+ assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
@@ -57,7 +57,7 @@ function celsiusToFahrenheit(numbers) {
     }
     return converted;
 }
-// assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+ assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
 // ========================
